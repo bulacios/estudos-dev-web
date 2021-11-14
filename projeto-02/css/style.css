@@ -1,7 +1,7 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
-}
+} */
 
 body {
     background: #d2d2c1 url('../img/fundo.png');
@@ -36,13 +36,10 @@ body {
 #conteudo h1 {
     color: #828271;
     font-size: 1.18em;
-    /*padding: 20px 10px 0px 10px;*/
 }
 
 #conteudo p {
     color: #000000;
-    /*padding: 10px;*/
-    
 }
 
 .img-campanha {
