@@ -21,4 +21,4 @@ Repositório destinado a projetos finais realizados durante o estudo de desenvol
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://github.com/bulacios/estudos-dev-web/blob/main/projeto-02/img/projeto-final.jpg?raw=true" width="700px"> <img src="https://github.com/bulacios/estudos-dev-web/blob/main/projeto-02/img/estrutura-site.jpg?raw=true">
+<img src="https://github.com/bulacios/estudos-dev-web/blob/main/projeto-02/img/projeto-final.jpg?raw=true" width="700px"> <img src="https://github.com/bulacios/estudos-dev-web/blob/main/projeto-02/img/estrutura-site.jpg?raw=true" width="150px">
