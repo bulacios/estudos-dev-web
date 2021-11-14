@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #rgb(255,255,255);
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1280px;
+    
+    margin: 0 auto;
+}
+
+.top {
+    width: 100%;
+    height: 50px;
+    background-color: #302f2f;
+    line-height: 50px;
+}
+
+.logo {
+    box-sizing: border-box;
+    padding-left: 157px;
+    width: 640px;
+    color: #ffffff;
+    float: left;
+
+}
+
+#menu {
+    box-sizing: border-box;
+    float: right;
+    padding-right: 160px;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+#menu a {
+    color: #ffffff;
+    padding: 0 10px;
+}
+
+#menu a:hover {
+    background-color: #347aba;
+    padding: 15px;
+}
+
+.chamada {
+    width: 100%;
+    height: 300px;
+    background-color: #347aba;
+}
+
+.frase-chamada {
+    width: 635px;
+    box-sizing: border-box;
+    padding-left: 188px;
+    padding-top: 64px;
+    float: left;
+}
+
+.frase-chamada > h1 {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 4em;
+    padding-bottom: 10px;
+    
+}
+
+.frase-chamada > p {
+    font-size: 1.9em;
+    color: #ffffff;
+    padding-bottom: 20px;
+}
+
+.botton {
+   width: 280px;
+   height: 55px;
+   background-color: #ffc001;
+   border-radius: 5px;
+   text-align: center;
+   line-height: 55px;
+}
+
+.botton-chamada {
+    font-size: 1.67em;
+    font-weight: bold;
+    color: #302f2f;
+}
+
+.imagem-chamada {
+    float: right;
+    padding-right: 225px;
+}
+
+.produtos {
+    width: 100%;
+    height: 635px;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.produtos > p {
+    font-size: 1.67em;
+    font-weight: bold;
+    line-height: 88px;
+}
+
+.banners > img {
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+.rodape {
+    width: 100%;
+    background-color: #347aba;
+    line-height: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+}
