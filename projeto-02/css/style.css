@@ -2,3 +2,53 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background: #d2d2c1 url('../img/fundo.png');
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 900px;
+    margin: 0 auto;
+    
+}
+
+#menu {
+    background: #C5C5B2;
+    padding: 18px;        
+}
+
+#menu a {
+    color: #4B566A;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 10px;
+    text-decoration: none;
+}
+
+#conteudo {
+    background: #E8E8D9;
+    padding: 20px 10px;
+
+}
+
+#conteudo h1 {
+    color: #828271;
+    font-size: 1.18em;
+    padding-bottom: 20px;
+}
+
+#conteudo p {
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+#rodape {
+    text-align: center;
+    padding: 18px;
+}
+
+
+
