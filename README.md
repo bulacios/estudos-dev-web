@@ -24,7 +24,7 @@ Repositório destinado a projetos finais realizados durante o estudo de desenvol
 <img src="https://github.com/bulacios/estudos-dev-web/blob/main/projeto-02/img/projeto-final.jpg?raw=true" width="700px"> <img src="https://github.com/bulacios/estudos-dev-web/blob/main/projeto-02/img/estrutura-site.jpg?raw=true" width="150px">
 
 <h2><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png" width="25px">Projeto-03</h2>
-<p>Projeto de um site abardoando o uso de float, display e demais tags básicas, nesse projeto ainda não foi applicado semântica html5 e css3.</p>
+<p>Projeto de um site abardoando o uso de float, display e demais tags básicas, nesse projeto ainda não foi aplicado semântica html5 e css3.</p>
 
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
